@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "CI/CD Spring Boot Application Running Successfully";
+        return "CI/CD Spring Boot Application Running Successfully!";
     }
 }

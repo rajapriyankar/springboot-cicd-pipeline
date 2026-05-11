@@ -1,4 +1,4 @@
-name: CI-CD Demo
+name: Continuous Integration and Continuous Deployment
 
 on:
   push:
